@@ -1,8 +1,8 @@
 
-geopandas
-keplergl
-streamlit
-streamlit-folium
-streamlit-keplergl
+folium==0.12.1.post1
+geemap==0.9.4
+geopandas==0.10.2
+Shapely==1.8.0
+streamlit==1.2.0
 git+git://github.com/giswqs/leafmap
 git+git://github.com/giswqs/geemap
