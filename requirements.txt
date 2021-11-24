@@ -1,7 +1,11 @@
-
-folium==0.12.1.post1
-geopandas==0.10.2
+earthengine-api==0.1.290
+ee==0.2
 Shapely==1.8.0
-streamlit==1.2.0
+
+geopandas
+keplergl
+streamlit
+streamlit-folium
+streamlit-keplergl
 git+git://github.com/giswqs/leafmap
 git+git://github.com/giswqs/geemap
