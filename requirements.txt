@@ -1,5 +1,4 @@
 earthengine-api==0.1.290
-ee==0.2
 Shapely==1.8.0
 
 geopandas
