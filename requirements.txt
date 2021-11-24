@@ -4,3 +4,4 @@ geemap==0.9.4
 geopandas==0.10.2
 Shapely==1.8.0
 streamlit==1.2.0
+StringIO==3.6.0
